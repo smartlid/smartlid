@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David</h1>
+<h3 align="center">A full-stack software developer</h3>
+- 🔭 I’m currently open to work and actively looking for new job. <br />
+- 🌱 I’m currently learning blockchain, smart contract and web3.js <br />
+- 👯 I’m looking to collaborate with developers. <br />
 
 <!--
 **smartlid/smartlid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
