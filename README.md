@@ -1,6 +1,6 @@
 <h3 align="center">A full-stack software developer</h3>
 - 🔭 I’m currently open to work and actively looking for new job. <br />
-- 🌱 I’m currently learning blockchain, smart contract and web3.js <br />
+- 🌱 I’m experienced with Shopify ecommerce, especially headless ecommerce and headless CMS. <br />
 - 👯 I’m looking to collaborate with developers. <br />
 
 <!--
