@@ -1,7 +1,4 @@
-<h3 align="center">A full-stack software developer</h3>
-- 🔭 I’m currently open to work and actively looking for new job. <br />
-- 🌱 I’m experienced with Shopify ecommerce, especially headless ecommerce and headless CMS. <br />
-- 👯 I’m looking to collaborate with developers. <br />
+<h3 align="center">Full Stack Software Engineering</h3>
 
 <!--
 **smartlid/smartlid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
